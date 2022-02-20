@@ -14,7 +14,7 @@ To test this API follow these steps:
      <p>DB_DATABASE=product-api </p> 
      <p>DB_PASS=admin123 </p>
      <p>DB_PORT=5432 </p>
-6. Open two terminals and run "tsc -w" command in one terminal and "yarn start" in the other one.
+6. Open two terminals from our git repo and run "tsc -w" command in one terminal and "yarn start" in the other one.
 
 The server will be running now at port 3001.
 
